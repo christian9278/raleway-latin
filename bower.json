@@ -1,0 +1,16 @@
+{
+  "name": "raleway-v9-latin",
+  "version": "0.0.3",
+  "authors": [
+    "Christian <christian@localhost>"
+  ],
+  "main": "css/fonts.css",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
