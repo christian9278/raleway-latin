@@ -1,17 +1,17 @@
-# raleway-v9-latin
+# raleway-latin
 
 Raleway web font package with CSS.
 
 ## Installation
 
 ```
-bower install raleway-v9-latin --save
+bower install raleway-latin --save
 ```
 
 ## Usage
 
 ```
-@import "../bower_components/raleway-v9-latin/css/fonts.css";
+@import "../bower_components/raleway-latin/css/fonts.css";
 ```
 
 ## Contributing
@@ -24,8 +24,6 @@ bower install raleway-v9-latin --save
 
 ## History
 
-- v0.0.3: Updated README.md
-- v0.0.2: Moved fonts.css into fonts folder
 - v0.0.1: Initial commit
 
 ## Credits
